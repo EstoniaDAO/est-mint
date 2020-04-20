@@ -16,7 +16,7 @@ const mintSettings = (addresses, tx) => {
   const settings = tx;
   settings[0].mints = addresses.whitelist.map((address) => [
     address,
-    '1000000000000000000',
+    '1',
   ]);
   return JSON.stringify(settings, null, 2);
 };

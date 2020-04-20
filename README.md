@@ -1,5 +1,4 @@
-
-![Run aragonCLI](https://github.com/aracred/AraCred/workflows/Run%20aragonCLI/badge.svg)
+![Run aragonCLI](https://github.com/EstoniaDAO/est-mint/workflows/Run%20aragonCLI/badge.svg)
 
 <br>
 
